@@ -1,4 +1,4 @@
-#47-
+#47-WAP to convert a numpy array into a dataframe of given shape
 import numpy as np
 import pandas as pd
 
